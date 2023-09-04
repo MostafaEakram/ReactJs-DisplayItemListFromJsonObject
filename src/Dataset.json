@@ -1,0 +1,33 @@
+[
+    {"ContactId":1,
+    "ContactName":"Tom",
+    "ContactEmail":"TomCat@gmail.com",    
+    "ContactAddress":"1050 Techwood Dr NW, Atlanta, GA, UNITED STATES",    
+    "ContactHomePhone":"+14048271710",
+    "RoleName":"Cat Characters",
+    "ImageFileName":"tom_cat.png"
+   },
+   {"ContactId":2,
+   "ContactName":"Jerry",
+   "ContactEmail":"JerryMouse@gmail.com",    
+   "ContactAddress":"1050 Techwood Dr NW, Atlanta, GA, UNITED STATES",    
+   "ContactHomePhone":"+14048271711",
+   "RoleName":"Mouse Characters",
+   "ImageFileName":"Jerry_Mouse.png"
+  },
+  {"ContactId":3,
+    "ContactName":"Spike",
+    "ContactEmail":"SpikeDog@gmail.com",    
+    "ContactAddress":"1050 Techwood Dr NW, Atlanta, GA, UNITED STATES",    
+    "ContactHomePhone":"+14048271712",
+    "RoleName":"Fictional Characters",    
+    "ImageFileName":"Spike_dog.png"
+   },
+   {"ContactId":4,
+   "ContactName":"Tyke",
+   "ContactEmail":"TykeDog@gmail.com",    
+   "ContactAddress":"1050 Techwood Dr NW, Atlanta, GA, UNITED STATES",    
+   "ContactHomePhone":"+14048271713",
+   "RoleName":"Fictional Characters",
+   "ImageFileName":"Tyke_dog.png"
+  }]

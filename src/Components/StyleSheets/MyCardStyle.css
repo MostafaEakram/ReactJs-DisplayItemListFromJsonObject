@@ -1,0 +1,116 @@
+.Card_Box
+{
+  margin-left: 15px;
+    margin-right: 5px;
+    height: 350px;
+    width: 275px !important;
+    float: left;
+
+    background: #f5f5f5;
+    background-color: transparent;
+    background: -webkit-linear-gradient(top,#fff 1%,#fcfcfc 98%) repeat scroll 0 0 transparent;
+    background: linear-gradient(to bottom,#fff 1%,#fcfcfc 98%) repeat scroll 0 0 transparent;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    border-bottom: 1px solid #dfdfdf;
+    border-left: 1px solid #ececec;
+    border-radius: 8px;
+    border-right: 1px solid #ececec;
+    box-shadow: 0 1px 1px 0 rgba(0,0,0,.04);
+    margin-bottom: 20px;
+    margin-top: 20px;
+    min-height: 100px;
+    position: relative;
+    text-align: center;
+    z-index: 1;
+}
+   .Card_content {
+  padding: 5px 5px 10px 5px !important;
+  border-top-color: #0d5be3 !important;
+  border-radius: 8px;
+    border-top: 1px solid #ccc;
+    border-top-width: 4px;
+    position: relative;
+    top: -1px;
+   }
+  .Card_Person_image {
+  width: 70px !important;
+  height: 70px !important;
+  margin-bottom:0px !important;
+  background-color: #0d5be3;
+    -moz-transition: -moz-transform .2s,transform .2s;
+    transition: transform .2s,transform .2s;
+    -webkit-transform: scale(1);
+    -moz-transform: scale(1);
+    -ms-transform: scale(1);
+    transform: scale(1);
+    display: inline-block;
+   
+    margin: 15px;
+    border-radius: 50%;
+    text-align: center;
+    position: relative;
+    z-index: 1;
+    color: #fff;
+    font-size: 40px;
+    line-height: 110px;
+  }
+  .Card_ContentName
+  {
+    border:none !important;
+
+box-sizing: border-box;
+color: #303030;
+display: block;
+font-family: "Open Sans", Arial, sans-serif;
+
+font-size :18px;
+font-weight: 400;
+height: 27px;
+line-height: 27px;
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 5px;
+padding-bottom: 0px;
+padding: 0px;
+text-align: center;
+  }
+  .Card_ContentRole
+  {
+    border:none !important;
+box-sizing: border-box;
+color: #585858;
+display: block;
+font-family: "Open Sans", Arial, sans-serif;
+font-size :16px;
+font-weight: 300;
+height: 27px;
+line-height: 27px;
+margin-left: 0px;
+margin-right: 0px;
+margin-top: 5px;
+padding-bottom: 0px;
+padding: 0px;
+text-align: center;
+  }
+  .Card_contactarea
+  {
+
+margin:0px;
+  }
+  .Card_contactareablock
+  {
+    margin:0px;
+    padding: 5px;
+    text-align: left;
+    font-size: 14px;
+  }
+  .Card_small_icon
+  {
+    width: 20px;
+    height: 20px;
+    position: relative;
+    top: 4px;
+    padding-right: 10px;
+  }
